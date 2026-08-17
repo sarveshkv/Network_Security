@@ -21,7 +21,6 @@ setup(
     name="network_security",
     version="0.0.0",
     author="Sarvesh",
-    author_email="sarveshkannan123@gmail.com",
     packages=find_packages(),
     install_requires=get_requirements("requirements.txt"),
 )
